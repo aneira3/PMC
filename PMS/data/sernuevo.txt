@@ -1,0 +1,5 @@
+servicio,L-X-S,08-21,15000,spa
+servicio,X-V-S,08-14,20000,kayak
+servicio,L-X-S,04-22,50000,alquiler de auto
+servicio,X-V-S,08-16,25000,tubing
+servicio,L-M-X-J-V-S-D,00-24,8000,niñera

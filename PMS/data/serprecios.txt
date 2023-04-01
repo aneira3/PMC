@@ -1,0 +1,4 @@
+spa,20000
+suicidio,0
+tubing,15000
+alquiler de auto,70000

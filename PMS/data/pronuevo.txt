@@ -1,0 +1,4 @@
+restaurante,L-M-X-J-V-S-D,00-24,1251,jugo de maracuya,Permanente,Comedor
+restaurante,X-V-S-D,04-10,505,tostadas francesas,Desayuno,Comedor/Habitacion
+restaurante,L-X-S-D,11-16,13,pasta alfredo,Almuerzo,Comedor/Habitacion
+restaurante,M-X-J-D,18-21,5050,baby beef,Cena,Habitacion
